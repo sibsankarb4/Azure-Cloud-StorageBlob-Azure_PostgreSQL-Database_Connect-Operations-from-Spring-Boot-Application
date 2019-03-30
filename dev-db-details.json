@@ -1,0 +1,6 @@
+{
+  "jdbcURL":"jdbc:postgresql://*************.postgres.database.azure.com:5432/azure_storage_springboot_db",
+  "jdbcUserName":"******************",
+  "jdbcPwd":"**************",
+  "driverName":"org.postgresql.Driver"
+  }
