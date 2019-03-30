@@ -1,0 +1,4 @@
+com\whiskey\config\AppConfig.class
+com\whiskey\config\AzureStorageConfig.class
+com\whiskey\AzureStoragePocApplication.class
+com\whiskey\controller\WhiskeyAzureController.class

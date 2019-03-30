@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AzureStorage-AzurePostgreSQL-SpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SI20052288
+Implementation-Vendor-Id: com.whiskey
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/AzureStorage-AzurePostgreSQL-SpringBoot
+Created-By: Maven Integration for Eclipse
+
